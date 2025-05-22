@@ -7,8 +7,12 @@ print(L[1][1:2:1])
 #output=thon
 print(L[0][2:6:1])
 #output= first occurence of 2
-#print(L[0][2:6:1])
+print(L[1][3])
 #output=]
 print(L[1][10:11:1])
 #output=[
 print(L[1][0:1:1])
+
+print(type(L[1]))
+print(L[1][2])
+

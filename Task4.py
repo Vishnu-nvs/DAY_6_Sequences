@@ -22,3 +22,6 @@ print("by using - indexing :",Z[-4][-3][-1])
 #output=k (+)(-)
 print("by using + indexing :",Z[2][6][0])
 print("by using - indexing :",Z[-4][-1][-4])
+#output:['don', 'king'] (-)  one line
+print("by using + indexing :",Z[-4][-2::1])
+

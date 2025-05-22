@@ -76,27 +76,29 @@ ell
 Task2.py   (Output)
 
 PS C:\Users\HP\OneDrive\Vishnu\Python> & C:/Users/HP/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HP/OneDrive/Vishnu/Python/DAY_6_Sequences/Task2.py
-(1, 2, 3, 4, 5, 6, 7)
+<class 'tuple'>
+<class 'list'>
 
 
 
 
 Task3.py(Output)
 
-PS C:\Users\HP\OneDrive\Vishnu\Python> & C:/Users/HP/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HP/OneDrive/Vishnu/Python/DAY_6_Sequences/Task3.py
 Given input L is: ('Python', '[1,2,3,4,5]', 3, 5)
 1
 thon
+2
 ]
 [
-
+<class 'str'>
+,
 
 Task4.py (Output)
 
 PS C:\Users\HP\OneDrive\Vishnu\Python> & C:/Users/HP/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/HP/OneDrive/Vishnu/Python/DAY_6_Sequences/Task4.py
 
 Given input Z is: ['python', 'django', [1, 2, 3, 4, (5, 8, 3, 'DON', 'KING'), 'don', 'king'], 7, 9, 10]
-Excepted value is : [1]
+Excepted value is : [1]   
 by using + indexing : DON 
 by using - indexing : KING
 by using + indexing : ing 
@@ -107,4 +109,5 @@ by using - indexing : 8
 by using + indexing : DON 
 by using - indexing : KING
 by using + indexing : k   
-by using - indexing : k
+by using - indexing : k   
+by using + indexing : ['don', 'king']
